@@ -26,6 +26,7 @@ module.exports = {
 
     console.log(skillsArray);
 
-    return response.json({ devs: [] });
+    // return response.json({ devs: [] });
+    return response.json(devs);
   }
 } 

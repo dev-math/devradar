@@ -13,10 +13,4 @@ npm start
 ```
 
 ## Informações
-Tecnologias: React Native, ReactJS, Node.js,
-
-Status: [Em desenvolvimento]
-
-Desenvolvido por: [Matheus Rocha](https://twitter.com/matheustemh/).
-
-Instrutor: [Diego Fernandes - @diego3g](https://github.com/diego3g).
+Tecnologias: React Native, ReactJS, Node.js

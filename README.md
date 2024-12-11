@@ -1,8 +1,7 @@
-# Semana OmniStack 10.0
+# DevRadar
+App 'DevRadar' desenvolvido durante a Semana OmniStack 10.
 
-App 'DevRadar' desenvolvido durante a Semana OmniStack 10.0, um evento oferecido pela [Rocketseat](https://rocketseat.com.br/).
-
-## Rodando o App 'DevRadar'
+## Rodando o App
 Clone o projeto e instale as dependências:
 
 ```
